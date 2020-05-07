@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+li {
+    border: 10px solid green;
+    padding: 20px;
+    width: 100px;
+    display: inline;
+    font-family: verdana;
+    background-color: rgb(15,255,15);
+}
+a {
+    text-decoration: none;
+    color: #4B31B7;
+}
+.crama {
+    padding: 30px;
+    text-align: center;
+}
+.content {
+    background-color: darkgray;
+    font-family: italianno;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 35px;
+    text-align: center;
+}
